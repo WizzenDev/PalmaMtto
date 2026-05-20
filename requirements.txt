@@ -1,0 +1,11 @@
+# Interfaz gráfica
+PyQt6>=6.6.0
+
+# Exportación
+openpyxl>=3.1.0
+
+# HTTP para APIs de IA
+httpx>=0.27.0
+
+# Empaquetado (solo para distribución final)
+pyinstaller>=6.0.0
